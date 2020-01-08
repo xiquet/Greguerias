@@ -12,18 +12,18 @@ p {
     font-size: 150%;
 }
 
-p.infancia {
+p.xiquets {
     color: white;
     font-family: serif;
     font-style: oblique;
 }
 
-p.animales {
+p.animals {
     color: hsl(35, 100%, 85%);
     font-family: sans-serif;
 }
 
-p.literatura {
+p.llibres {
     color: hsl(35, 100%, 55%);
     font-family: monospace;
     font-size: 200%;
